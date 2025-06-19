@@ -5,7 +5,17 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ...💸</b>"""
+╔════════════════════════════╗  
+🚀 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗥𝗼𝗰𝗸𝗲𝘁 𝗕𝗼𝘁!  
+╚════════════════════════════╝
+
+🍿 Netflix dekhne ke paise nahi the...
+💻 Isliye Telegram pe bot chala rahe hain.
+💀 Bhookhe hain, par content ke liye jaan de denge.
+
+👑 𝗢𝘄𝗻𝗲𝗿: [@OwnerUsername]  
+➡️ Haan bhai, isi bande ne banaya hai Mujhe.  
+</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
