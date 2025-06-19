@@ -246,7 +246,15 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}</b>
+
+
+╔═━━━──⊹⊱❖⊰⊹──━━━═╗  
+       🎞️ ᴢʏʀɪᴄ ᴍᴏᴠɪᴇ 🎞️  
+╚═━━━──⊹⊱❖⊰⊹──━━━═╝  
+     📽️ Curated & Delivered by  
+           ᴢʏʀɪᴄ ᴛᴇᴀᴍ
+""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
