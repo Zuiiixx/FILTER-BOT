@@ -6,7 +6,7 @@ class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
 ╔══════════════════╗  
-  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗥𝗼𝗰𝗸𝗲𝘁 𝗕𝗼𝘁  
+      𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗥𝗼𝗰𝗸𝗲𝘁 𝗕𝗼𝘁  
 ╚══════════════════╝
 
 🍿 Netflix dekhne ke paise nahi the...
